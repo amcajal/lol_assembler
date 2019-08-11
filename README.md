@@ -1,8 +1,8 @@
 <!--- PROJECT LOGO -->
-![project_logo](@REP url to image)
+![project_logo](https://github.com/amcajal/lol_assembler/blob/master/doc/media/lol_assembler_logo.png)
 
 <!--- PROJECT SUMMARY/OVERVIEW -->
-
+![rotten_sign](https://github.com/amcajal/lol_assembler/blob/master/doc/media/rotten_code_sign.png)
 
 ---
 
@@ -15,18 +15,17 @@
 ---
 
 ### Project Content
-@REP
-* Branches
-* Wiki, issue tracker, any other page
-* API, webpage
-* Files in the main page (license, readme, contrib, code of conduct, etc)
-* Folders in each branch (reqs, code, test, design, etc)
+The project is organized in the following folders:
+- lib/ folder contains the Commons IO java libraries. LoL Assembler depends on them to be build.
+- src/ folder contains the source code of the application
+- doc/ folder contains the full manual of the application, as well as the images used in this README
+- download/ folder, aimed to casual users, contains a .rar files with the java binary ready to be executed.
 
 [Back to index](#index)
 
 
 ### Quickstart
-
+@REP
 * Summary of set up (installation)
 * Configuration
 * Dependencies
