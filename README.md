@@ -2,7 +2,9 @@
 ![project_logo](https://github.com/amcajal/lol_assembler/blob/master/doc/media/lol_assembler_logo.png)
 
 <!--- PROJECT SUMMARY/OVERVIEW -->
-LoL ASSEMBLER is a tool for strategic picks in League of Legends, the most successful MOBA ever. LoL ASSEMBLER helps you to build the perfect team in a smart way, using counter-pick data from the community of players and your own customizable information. The tool is completely free, and can be used in all game modes, with a bunch of related features.
+Originally hosted at http://glimpse-23.blogspot.com/
+
+**LoL ASSEMBLER** is a tool for strategic picks in League of Legends, the most successful MOBA ever. **LoL ASSEMBLER** helps you to build the perfect team in a smart way, using counter-pick data from the community of players and your own customizable information. The tool is completely free, and can be used in all game modes, with a bunch of related features.
 
 Whether you are a newbie who needs a little impulse to start in the competitive way, an experienced player seeking for challenger tier, a trainer who wants a decision support system, or just a gamer with passion for chess-like planning and strategies, LoL ASSEMBLER will aim you in the fields of justice.
 
